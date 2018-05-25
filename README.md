@@ -11,4 +11,6 @@ docker-compose up -d
 
 ## References
 
-- https://github.com/jenkinsci/docker/blob/master/README.md
+- https://github.com/jenkinsci/docker
+- https://github.com/afonsof/jenkins-material-theme
+- http://jenkins-php.org/
