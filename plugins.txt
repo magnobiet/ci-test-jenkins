@@ -30,3 +30,5 @@ xunit:latest
 ace-editor:latest
 favorite:latest
 gravatar:latest
+workflow-aggregator:latest
+simple-theme-plugin:latest
