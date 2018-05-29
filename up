@@ -1,6 +1,6 @@
 #!/bin/bash
 
 mkdir -p data/jenkins
-sudo chown -Rf $USER:jenkins data/
+# sudo chown -Rf $USER:jenkins data/
 
 docker-compose up

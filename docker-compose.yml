@@ -4,7 +4,7 @@ services:
 
   jenkins:
     container_name: jenkins
-    image: magnobiet/jenkins:latest
+    image: magnobiet/jenkins
     privileged: true
     ports:
       - 8080:8080
