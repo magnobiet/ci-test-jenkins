@@ -2,4 +2,5 @@
 
 rm -rf data/
 mkdir -p data/jenkins
-sudo chown -Rf $USER:jenkins data/
+# sudo chown -Rf $USER:jenkins data/
+docker rmi magnobiet/jenkins -f
